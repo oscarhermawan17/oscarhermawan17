@@ -38,4 +38,4 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 📬 Email: oscar.hermawan90@gmail.com
 - 🕴 LinkedIn: https://www.linkedin.com/in/oscar-hermawan/
-- 🌐 Personal Web: https://www.oscarhermawan17.github.io/
+- 🌐 Personal Web: https://www.oscarhermawan.com/
