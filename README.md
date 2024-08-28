@@ -4,11 +4,11 @@
     <a href="https://www.linkedin.com/in/oscar-hermawan/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://x.com/oscarhermawan">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://www.codewars.com/users/oscarhermawan17">
+      <img src="https://img.shields.io/badge/Codewars-blue?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
     </a>
-    <a href="https://www.instagram.com/oscar_hermawan90/">
-      <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Blog Badge"/>
+    <a href="https://www.codecademy.com/profiles/oscar_hermawan90">
+      <img src="https://img.shields.io/badge/Codecademy-blue?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy Badge"/>
     </a>
   </div>
 </div>
@@ -18,7 +18,7 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bali, Indonesia.
 
 - I’m working as a Full Stack Developer.
-- I have experience developing mobile and web app using Javascript Technology.
+- I have experience developing web and mobile app using Javascript Technology.
 
 ### :hammer_and_wrench: Languages and Tools :
 
